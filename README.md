@@ -24,8 +24,9 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 <summary>Tech 💻</summary>
 <br>
 <p>
-  Markup : * Languages: Python, SQL, Java, Javascript, HTML/CSS
-           * Technologies/IDEs: VSCode, Pycharm, React, MySQL, Oracle
+  - Languages: Python, SQL, Java, Javascript, HTML/CSS
+ 
+  - Technologies/IDEs: VSCode, Pycharm, React, MySQL, Oracle
 </p>
 </details>
 
@@ -33,6 +34,6 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 <summary>More Info 📫</summary>
 <br>
 <p>
-Markup : * website: www.enosie.com
+- website: www.enosie.com
 </p>
 </details>
