@@ -14,7 +14,7 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-<!-- Links to your social media accounts -->
+<!-- Links to social media accounts -->
 
 [1]: https://twitter.com/enosiie
 [2]: https://www.linkedin.com
@@ -24,8 +24,8 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 <summary>Tech 💻</summary>
 <br>
 <p>
-- Languages: Python, SQL, Java, Javascript, HTML/CSS
-- Technologies/IDEs: VSCode, Pycharm, React, MySQL, Oracle
+* Languages: Python, SQL, Java, Javascript, HTML/CSS
+* Technologies/IDEs: VSCode, Pycharm, React, MySQL, Oracle
 </p>
 </details>
 
@@ -33,6 +33,6 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 <summary>More Info 📫</summary>
 <br>
 <p>
-- website: www.enosie.com
+* website: www.enosie.com
 </p>
 </details>
