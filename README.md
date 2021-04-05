@@ -23,12 +23,16 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 <details>
 <summary>Tech 💻</summary>
 <br>
+<p>
 - Languages: Python, SQL, Java, Javascript, HTML/CSS
 - Technologies/IDEs: VSCode, Pycharm, React, MySQL, Oracle
+</p>
 </details>
 
 <details>
 <summary>More Info 📫</summary>
 <br>
+<p>
 - website: www.enosie.com
+</p>
 </details>
