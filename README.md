@@ -17,7 +17,7 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3].
 <!-- Links to social media accounts -->
 
 [1]: https://twitter.com/enosiie
-[2]: https://www.linkedin.com
+[2]: https://www.linkedin.com/in/enosodigie
 </details>
 
 <details>
