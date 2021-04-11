@@ -18,6 +18,8 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2]
 
 [1]: https://twitter.com/enosiie
 [2]: https://www.linkedin.com/in/enosodigie
+
+Feel free to check out my notebooks on [Kaggle](https://www.kaggle.com/enosie)
 </details>
 
 <details>
