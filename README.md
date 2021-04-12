@@ -3,7 +3,7 @@
 <details open>
 <summary>About Me ☀️</summary>
 <br>
-I'm Enos Odigie, currently a software engineering student @ ~ but originally from Toronto! 
+I'm Enos Odigie, currently a student in Toronto! 
 
 <!-- Actual text -->
 
