@@ -7,7 +7,7 @@ I'm Enos Odigie, currently a student in Toronto!
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2]
+You can find me on [LinkedIn](https://www.linkedin.com/in/enosodigie)
 
 <!-- Icons -->
 
