@@ -23,17 +23,6 @@ Feel free to check out my notebooks on [Kaggle](https://www.kaggle.com/enosie)
 </details>
 
 <details>
-<summary>Tech 💻</summary>
-<br>
-<p>
- 
-  - Technologies/IDEs: VSCode, Pycharm, React, MySQL, Oracle
-  - Languages: Python, SQL, Java, Javascript, HTML/CSS
-
-</p>
-</details>
-
-<details>
 <summary>More Info 📫</summary>
 <br>
 <p>
