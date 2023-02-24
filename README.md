@@ -3,12 +3,7 @@
 <details open>
 <summary>About Me ☀️</summary>
 <br>
-I'm Enos! curently a CS + Statistics @ Carleton University, incoming intern @ TD, previous intern @ Prodigy Game. Co-Prez @ Carleton AI Society, part-time librarian. 
-
-<!-- Actual text -->
-<br>
-
-Let's connect on [LinkedIn](https://www.linkedin.com/in/enosodigie)
+I'm Enos! curently a CS + Statistics @ Carleton University, incoming intern @ TD, previous intern @ Prodigy Game. Co-Prez @ Carleton AI Society, part-time librarian. Let's connect on [LinkedIn](https://www.linkedin.com/in/enosodigie)
 
 <!-- Icons -->
 
