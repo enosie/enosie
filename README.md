@@ -1,18 +1,14 @@
 ### Howdy✨
 
-  <summary>About Me ☀️</summary>
-  <br>
-  I'm Enos! curently a CS + Statistics @ Carleton University, incoming intern @ TD, previous intern @ Prodigy Game. Co-Prez @ Carleton AI Society, part time librarian. Let's connect on [Linkedin][2] 
+<br>
+I'm Enos! curently a CS + Statistics @ Carleton University, incoming intern @ TD, previous intern @ Prodigy Game. Co-Prez @ Carleton AI Society, part time librarian. Let's connect on https://www.linkedin.com/in/enosodigie
 
-
-
-  <summary>More Info 📫</summary>
-  <br>
-    - i write on [Medium][3] 
-    <br>
-    - website: www.enosie.com
-    <br>
-    - check out my notebooks on [Kaggle][1]
+<br>
+- i write on https://enosie.medium.com/
+<br>
+- website: www.enosie.com
+<br>
+- check out my notebooks on https://www.kaggle.com/enosie
   
   <!-- Links to social media accounts -->
   [1]: https://www.kaggle.com/enosie 
