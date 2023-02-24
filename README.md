@@ -1,13 +1,13 @@
-### Hi Hi ✨
+### Howdy✨
 
 <details open>
 <summary>About Me ☀️</summary>
 <br>
-I'm Enos Odigie, currently a student in Ottawa, but originally from Toronto! 
+I'm Enos! curently a CS + Statistics @ Carleton University, incoming intern @ TD, previous intern @ Prodigy Game. Co-Prez @ Carleton AI Society, part-time librarian. 
 
 <!-- Actual text -->
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/enosodigie)
+Let's connect on [LinkedIn](https://www.linkedin.com/in/enosodigie)
 
 <!-- Icons -->
 
@@ -16,17 +16,16 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/enosodigie)
 
 <!-- Links to social media accounts -->
 
-[1]: https://twitter.com/enosiie
 [2]: https://www.linkedin.com/in/enosodigie
 
-Feel free to check out my notebooks on [Kaggle](https://www.kaggle.com/enosie)
 </details>
 
 <details>
 <summary>More Info 📫</summary>
 <br>
 <p>
- 
+  - i write on [Medium](https://enosie.medium.com/)
   - website: www.enosie.com
+  - check out my notebooks on [Kaggle](https://www.kaggle.com/enosie)
 </p>
 </details>
