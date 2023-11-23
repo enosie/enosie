@@ -1,7 +1,7 @@
 ### Howdy✨
 
 <br>
-I'm Enos! curently studying CS + Statistics @ Carleton University, quality engineer intern @ TD, previous intern @ Prodigy Game. Co-Prez @ Carleton AI Society, part time librarian.
+I'm Enos! curently studying CS + Statistics @ Carleton University, SWE intern @ scotiabank, previous intern @ TD Bank and @ Prodigy Game. prez @ Carleton AI Society, content creator.
 
   <!-- Links to social media accounts -->
   [1]: https://www.kaggle.com/enosie 
