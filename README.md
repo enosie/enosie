@@ -1,7 +1,7 @@
 ### Howdy✨
 
 <br>
-I'm Enos! curently studying CS + Statistics @ Carleton University, SWE intern @ wealthsimple, previous intern @ Scotiabank, TD Bank, Prodigy Game. prez @ Carleton AI Society, content creator.
+I'm Enos! CS + Statistics @ Carleton University, SWE @ wealthsimple, previous @ Scotiabank, TD Bank, Prodigy Game. prez @ Carleton AI Society.
 
   <!-- Links to social media accounts -->
   [1]: https://www.kaggle.com/enosie 
